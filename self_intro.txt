@@ -1,1 +1,5 @@
-i am Ajay, i completed my under graduation in the month of July 2024.  
+Hello, my name is Ajay. I recently completed my B.Tech in 2024 from RVR & JC College. Prior to that, I completed my Intermediate in 2020 from Vision Junior College and my Secondary Schooling in 2018 from Sri Nagarjuna High School.
+
+During my B.Tech, I worked on a major project titled "Signature Verification Using Critical Segments for Securing Mobile Transactions." This project focused on enhancing security in mobile transactions through advanced signature authentication techniques.
+
+I am passionate about technology, problem-solving, and software development. I am eager to apply my skills and knowledge to real-world challenges and contribute effectively to any team I work with.  
